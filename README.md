@@ -4,6 +4,5 @@
 # Test nummer 3
 # Test nummer 4
 # Robotmanden er her
-# Wut
 
 
